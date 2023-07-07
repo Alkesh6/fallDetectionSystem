@@ -10,9 +10,9 @@ The [UP-Fall Detection](https://sites.google.com/up.edu.mx/har-up/) was used to 
 
 ## Outputs
 Here are some of the desired outputs by the fall detector
-![Output1:Normal](https://github.com/Alkesh6/fallDetectionSystem/blob/main/examples/output.png)
-![Output2:Fall Warning](https://github.com/Alkesh6/fallDetectionSystem/blob/main/examples/output1.png)
-![Output3: Fall](https://github.com/Alkesh6/fallDetectionSystem/blob/main/examples/output2.png)
+![Output1: Normal](https://github.com/Alkesh6/fallDetectionSystem/blob/main/examples/output.png)
+![Output2: Fall Warning](https://github.com/Alkesh6/fallDetectionSystem/blob/main/examples/output-1.png)
+![Output3: Fall](https://github.com/Alkesh6/fallDetectionSystem/blob/main/examples/output-2.png)
 
 
 
