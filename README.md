@@ -8,6 +8,12 @@ pip install -r requirements.txt
 ## Dataset
 The [UP-Fall Detection](https://sites.google.com/up.edu.mx/har-up/) was used to train the LSTM model.
 
+## Outputs
+Here are some of the desired outputs by the fall detector
+![Output1:Normal](https://github.com/Alkesh6/fallDetectionSystem/blob/main/examples/output.png)
+![Output2:Fall Warning](https://github.com/Alkesh6/fallDetectionSystem/blob/main/examples/output1.png)
+![Output3: Fall](https://github.com/Alkesh6/fallDetectionSystem/blob/main/examples/output2.png)
+
 
 
 
